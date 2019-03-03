@@ -1,0 +1,25 @@
+{
+  "name": "gulpbuildtool",
+  "version": "1.0.0",
+  "description": "learning ho wto use gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "node node_modules/gulp/bin/gulp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandeepkaurbawa/gulp.git"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandeepkaurbawa/gulp/issues"
+  },
+  "homepage": "https://github.com/amandeepkaurbawa/gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
